@@ -2,7 +2,7 @@ import React from 'react';
 import UserDropdown from '../components/UserDropdown';
 import { Story, Meta } from '@storybook/react/types-6-0';
 import 'semantic-ui-css/semantic.min.css';
-
+debugger
 export default {
   title: 'UserDropdown',
   component: UserDropdown,
